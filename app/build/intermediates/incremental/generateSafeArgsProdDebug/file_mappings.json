@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\main_nav_graph.xml","javaFiles":["com.boomino.test.presentation.splash.SplashFragmentDirections","com.boomino.test.presentation.video.VideoFragmentDirections","com.boomino.test.presentation.video_detail.FragmentVideoDetailArgs"]}]

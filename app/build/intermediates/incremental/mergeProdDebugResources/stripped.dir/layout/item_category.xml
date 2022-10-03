@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/paret_category"
+        android:layout_margin="8dp" android:tag="layout/item_category_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/txt_category_title"
+            style="@style/TextAppearance.Boomino.Body1"
+            android:background="@drawable/background_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:padding="8dp"
+            tools:text="test"
+            android:layout_margin="8dp"/>
+    </LinearLayout>
+         

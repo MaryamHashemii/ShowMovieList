@@ -1,0 +1,1 @@
+C:\Users\Mary\Desktop\Woocer_test\buildSrc\build\classes\kotlin\main\Libs.class;C:\Users\Mary\Desktop\Woocer_test\buildSrc\build\classes\kotlin\main\Versions.class

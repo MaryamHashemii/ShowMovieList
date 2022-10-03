@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/auth_nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.boomino.test.presentation.splash.SplashFragment"
+        android:label="SplashFragment"
+        tools:layout="@layout/fragment_splash">
+        <action
+            android:id="@+id/action_splashFragment_to_productFragment"
+            app:destination="@id/videoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/videoFragment"
+        android:name="com.boomino.test.presentation.video.VideoFragment"
+        android:label="VideoFragment"
+        tools:layout="@layout/fragment_video">
+        <action
+            android:id="@+id/action_videoFragment_to_videoDetailFragment"
+            app:destination="@id/fragmentVideoDetail" >
+            <argument
+                app:argType="com.boomino.test.domain.model.ItemVideo"
+                android:name="videoInfo"/>
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentVideoDetail"
+        android:name="com.boomino.test.presentation.video_detail.FragmentVideoDetail"
+        android:label="fragmentVideoDetail"
+        tools:layout="@layout/fragment_video_detail">
+        <argument
+            app:argType="com.boomino.test.domain.model.ItemVideo"
+            android:name="videoInfo"/>
+    </fragment>
+
+</navigation>

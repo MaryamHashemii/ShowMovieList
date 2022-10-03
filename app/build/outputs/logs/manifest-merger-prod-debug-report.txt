@@ -1,0 +1,386 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\880dae5de6a37fab5074430bd29896e7\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Mary\.gradle\caches\transforms-3\56d0cf7c71632ba866d8c217611edbe6\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\fd3d31ccfa4a691672afe3ca38b19dd7\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\712200e72b367a0a86f020705f3fa5df\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\c1ba0507d33dba9c8d2a7693c732d9cd\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\f973b84aa74920fa4798ee9fd2c6c0ec\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\4d4b54e798beb427fd1be56c03ad6a7f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\0e0be6aedaabc48cd51696b6513a970c\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Mary\.gradle\caches\transforms-3\22e4dbd22a7489962689ba7e826cc020\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\dcae7029a2eeb07754f1f00ee0296972\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Mary\.gradle\caches\transforms-3\af5b9fee846dcc477ec4ae16afc0971d\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5b6f850dad69fab1a15de781321e6daa\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\b276642ab597e861c5b954b6589baec0\transformed\jetified-databinding-ktx-7.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\86c7e257eecfeb1ef5df10188cbde23b\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\dec19a335c70d36678e94b5658abddda\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\8e590b1f6b1ab28e231aa08034b0810e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\a8eb601748ab709a7d1fa8a144c8bd49\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\631c8977f4fc426bafebc8c26a2518d1\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\1fc6496173f06ddc56b2aa05694d993c\transformed\databinding-adapters-7.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\43aa00c0b58685136bcfdcce72ac136b\transformed\databinding-runtime-7.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\Mary\.gradle\caches\transforms-3\25d280782408e2f5989909497dbaf668\transformed\jetified-hilt-android-2.38.1\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\a6b4dfe9361a47e9fb2d4d21ae562ffb\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\994a9bce755b50c7db30159ff808ca57\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\c80f973e405cdc24f9dd659bf7cacf82\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mary\.gradle\caches\transforms-3\ec02e21d0c7126d19bc8adb4b840739d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\ad6e56e39c6359a9d5c22bf2a53d45c6\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mary\.gradle\caches\transforms-3\e7a657c8248cc4f261f0a59f7d021bd3\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\5be130dec8b5e8cfcabaee52ddd1755c\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Mary\.gradle\caches\transforms-3\cbc985647efaee11b5a59f9441652ed5\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Mary\.gradle\caches\transforms-3\59c4d05d6ac3d90976e1cfd2d3dc451d\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\f000558cbbf3b0a8afce785d969016fc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\9978d6e2d02c5cb0b852af68e32450ac\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\e1ee267e44eb7f46e7770e59665fc550\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\4f1e17c3bcc738fef2cb159c9730507a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\0a687b268ed61790ea137c2097e0e8b1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\279cb9331b8e058738c9b5f586fe6c81\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\9bb04c064bd480af2e1c2816f3168876\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\7df8501268833769d551a49f180f99a9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\c121fa48944a3888ddc3a9317a39e9c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\c06ba53c8fddcf54b30d4701a6039445\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Mary\.gradle\caches\transforms-3\d5fec59d2e58a8ed3679d3f44a2d05bc\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\948286f4650c0021ffbdf2f66081cd30\transformed\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\a488c011e189d90d4217513e0f846368\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\3d5b998573e831f84625e91d6d0b55f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\5304b1193352279bc1aa25f765ff628e\transformed\jetified-viewbinding-7.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\ec8b3a674f7401a740112b4e59073700\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\37f36b376e8a16511df67c1b1577ed95\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\7911c63347390de4ffd8d263494b3341\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\742c692cec96de5245ec9b38cdeb6271\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\20e7189cfb7f4b087785fc390c8821bb\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\73577a1007dcb8dd586e7b53366bc1cd\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\5ff6ca1c71c65d13771778c893517f6b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\cdd996de6d7de744228c605dba99d749\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\bdc36121369cd788e571c5ce63aba963\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\9cb40fabae1e2545144207adeb939d69\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\3fea602842b0ed00fcc57f45de8470dd\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\27afddfcabba2f24e64162418f052d48\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\41d5f30769771cb9fc7a47419b6faadf\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\d03634a5aa587478ee2f57fa078cad00\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\fa97513adce96f342deba601e740bec6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\652ead699efb112f4f326d7825f7436b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\26a58fb0084833b7ad78a48c9f58a4fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\e220f71063c06b6674ac98447d8bef8e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\9ffdc4dcce0e5791c35a01dbc6e9d376\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\Mary\.gradle\caches\transforms-3\e413e8832da84854b14cfc29a41f3aa4\transformed\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\024fb895b7b70c766a3ff7bf65ff7227\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\5e998235514e9308493205da98e7c5ed\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\91614f41fc2192252b89875d21623508\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\5ca890cee232b50fa27b79b99ca2ffd2\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\83b31ce5d046c36e6ab8dc7999f79859\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\2f09e57289f07bdd9d1357a83ba0e37b\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\3a1cfab4ecd5dacf5b4ea1dd43a35733\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\3570107b4012fec67670864f5740f53d\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\cbfb5914c02facdd450833ae4774db45\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\6b1990b16af3ba630d2fbe17ebe3d286\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mary\.gradle\caches\transforms-3\0e4107913a69e94ad1364de62d3400c5\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\d4aa115a69041f3d86c7ab1eaa9ac909\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\2ce5fcebedfdc40210cae76ba03acf65\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\bfaca8251ecddca52c2fb0a29f32f878\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Mary\.gradle\caches\transforms-3\22e4dbd22a7489962689ba7e826cc020\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Mary\.gradle\caches\transforms-3\22e4dbd22a7489962689ba7e826cc020\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\dcae7029a2eeb07754f1f00ee0296972\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\dcae7029a2eeb07754f1f00ee0296972\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\a8eb601748ab709a7d1fa8a144c8bd49\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\a8eb601748ab709a7d1fa8a144c8bd49\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\a6b4dfe9361a47e9fb2d4d21ae562ffb\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\a6b4dfe9361a47e9fb2d4d21ae562ffb\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mary\.gradle\caches\transforms-3\ec02e21d0c7126d19bc8adb4b840739d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mary\.gradle\caches\transforms-3\ec02e21d0c7126d19bc8adb4b840739d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\ad6e56e39c6359a9d5c22bf2a53d45c6\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\ad6e56e39c6359a9d5c22bf2a53d45c6\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\a488c011e189d90d4217513e0f846368\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\a488c011e189d90d4217513e0f846368\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\3d5b998573e831f84625e91d6d0b55f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\3d5b998573e831f84625e91d6d0b55f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mary\.gradle\caches\transforms-3\0e4107913a69e94ad1364de62d3400c5\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mary\.gradle\caches\transforms-3\0e4107913a69e94ad1364de62d3400c5\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\a488c011e189d90d4217513e0f846368\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:15:9-45
+	android:name
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:9:9-44
+activity#com.boomino.test.presentation.splash.MainActivity
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:18:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\880dae5de6a37fab5074430bd29896e7\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\880dae5de6a37fab5074430bd29896e7\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Mary\.gradle\caches\transforms-3\56d0cf7c71632ba866d8c217611edbe6\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Mary\.gradle\caches\transforms-3\56d0cf7c71632ba866d8c217611edbe6\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\fd3d31ccfa4a691672afe3ca38b19dd7\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\fd3d31ccfa4a691672afe3ca38b19dd7\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\712200e72b367a0a86f020705f3fa5df\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\712200e72b367a0a86f020705f3fa5df\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\c1ba0507d33dba9c8d2a7693c732d9cd\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\c1ba0507d33dba9c8d2a7693c732d9cd\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\f973b84aa74920fa4798ee9fd2c6c0ec\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\f973b84aa74920fa4798ee9fd2c6c0ec\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\4d4b54e798beb427fd1be56c03ad6a7f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\4d4b54e798beb427fd1be56c03ad6a7f\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\0e0be6aedaabc48cd51696b6513a970c\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\0e0be6aedaabc48cd51696b6513a970c\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Mary\.gradle\caches\transforms-3\22e4dbd22a7489962689ba7e826cc020\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Mary\.gradle\caches\transforms-3\22e4dbd22a7489962689ba7e826cc020\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\dcae7029a2eeb07754f1f00ee0296972\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\dcae7029a2eeb07754f1f00ee0296972\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Mary\.gradle\caches\transforms-3\af5b9fee846dcc477ec4ae16afc0971d\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Mary\.gradle\caches\transforms-3\af5b9fee846dcc477ec4ae16afc0971d\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5b6f850dad69fab1a15de781321e6daa\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5b6f850dad69fab1a15de781321e6daa\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\b276642ab597e861c5b954b6589baec0\transformed\jetified-databinding-ktx-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\b276642ab597e861c5b954b6589baec0\transformed\jetified-databinding-ktx-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\86c7e257eecfeb1ef5df10188cbde23b\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\86c7e257eecfeb1ef5df10188cbde23b\transformed\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\dec19a335c70d36678e94b5658abddda\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\dec19a335c70d36678e94b5658abddda\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\8e590b1f6b1ab28e231aa08034b0810e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\8e590b1f6b1ab28e231aa08034b0810e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\a8eb601748ab709a7d1fa8a144c8bd49\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\a8eb601748ab709a7d1fa8a144c8bd49\transformed\jetified-play-services-location-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\631c8977f4fc426bafebc8c26a2518d1\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\631c8977f4fc426bafebc8c26a2518d1\transformed\jetified-fresco-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\1fc6496173f06ddc56b2aa05694d993c\transformed\databinding-adapters-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\1fc6496173f06ddc56b2aa05694d993c\transformed\databinding-adapters-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\43aa00c0b58685136bcfdcce72ac136b\transformed\databinding-runtime-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\43aa00c0b58685136bcfdcce72ac136b\transformed\databinding-runtime-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\Mary\.gradle\caches\transforms-3\25d280782408e2f5989909497dbaf668\transformed\jetified-hilt-android-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] C:\Users\Mary\.gradle\caches\transforms-3\25d280782408e2f5989909497dbaf668\transformed\jetified-hilt-android-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\a6b4dfe9361a47e9fb2d4d21ae562ffb\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\a6b4dfe9361a47e9fb2d4d21ae562ffb\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\994a9bce755b50c7db30159ff808ca57\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\994a9bce755b50c7db30159ff808ca57\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\c80f973e405cdc24f9dd659bf7cacf82\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\c80f973e405cdc24f9dd659bf7cacf82\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mary\.gradle\caches\transforms-3\ec02e21d0c7126d19bc8adb4b840739d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Mary\.gradle\caches\transforms-3\ec02e21d0c7126d19bc8adb4b840739d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\ad6e56e39c6359a9d5c22bf2a53d45c6\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Mary\.gradle\caches\transforms-3\ad6e56e39c6359a9d5c22bf2a53d45c6\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mary\.gradle\caches\transforms-3\e7a657c8248cc4f261f0a59f7d021bd3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Mary\.gradle\caches\transforms-3\e7a657c8248cc4f261f0a59f7d021bd3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\5be130dec8b5e8cfcabaee52ddd1755c\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\5be130dec8b5e8cfcabaee52ddd1755c\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Mary\.gradle\caches\transforms-3\cbc985647efaee11b5a59f9441652ed5\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Mary\.gradle\caches\transforms-3\cbc985647efaee11b5a59f9441652ed5\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Mary\.gradle\caches\transforms-3\59c4d05d6ac3d90976e1cfd2d3dc451d\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Mary\.gradle\caches\transforms-3\59c4d05d6ac3d90976e1cfd2d3dc451d\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\f000558cbbf3b0a8afce785d969016fc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\f000558cbbf3b0a8afce785d969016fc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\9978d6e2d02c5cb0b852af68e32450ac\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\9978d6e2d02c5cb0b852af68e32450ac\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\e1ee267e44eb7f46e7770e59665fc550\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\e1ee267e44eb7f46e7770e59665fc550\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\4f1e17c3bcc738fef2cb159c9730507a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\4f1e17c3bcc738fef2cb159c9730507a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\0a687b268ed61790ea137c2097e0e8b1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\0a687b268ed61790ea137c2097e0e8b1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\279cb9331b8e058738c9b5f586fe6c81\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\279cb9331b8e058738c9b5f586fe6c81\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\9bb04c064bd480af2e1c2816f3168876\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\9bb04c064bd480af2e1c2816f3168876\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\7df8501268833769d551a49f180f99a9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\7df8501268833769d551a49f180f99a9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\c121fa48944a3888ddc3a9317a39e9c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\c121fa48944a3888ddc3a9317a39e9c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\c06ba53c8fddcf54b30d4701a6039445\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\c06ba53c8fddcf54b30d4701a6039445\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Mary\.gradle\caches\transforms-3\d5fec59d2e58a8ed3679d3f44a2d05bc\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Mary\.gradle\caches\transforms-3\d5fec59d2e58a8ed3679d3f44a2d05bc\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\948286f4650c0021ffbdf2f66081cd30\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\Mary\.gradle\caches\transforms-3\948286f4650c0021ffbdf2f66081cd30\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\a488c011e189d90d4217513e0f846368\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mary\.gradle\caches\transforms-3\a488c011e189d90d4217513e0f846368\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\3d5b998573e831f84625e91d6d0b55f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mary\.gradle\caches\transforms-3\3d5b998573e831f84625e91d6d0b55f4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\5304b1193352279bc1aa25f765ff628e\transformed\jetified-viewbinding-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] C:\Users\Mary\.gradle\caches\transforms-3\5304b1193352279bc1aa25f765ff628e\transformed\jetified-viewbinding-7.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\ec8b3a674f7401a740112b4e59073700\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\ec8b3a674f7401a740112b4e59073700\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\37f36b376e8a16511df67c1b1577ed95\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\37f36b376e8a16511df67c1b1577ed95\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\7911c63347390de4ffd8d263494b3341\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\7911c63347390de4ffd8d263494b3341\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\742c692cec96de5245ec9b38cdeb6271\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\742c692cec96de5245ec9b38cdeb6271\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\20e7189cfb7f4b087785fc390c8821bb\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\20e7189cfb7f4b087785fc390c8821bb\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\73577a1007dcb8dd586e7b53366bc1cd\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\73577a1007dcb8dd586e7b53366bc1cd\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\5ff6ca1c71c65d13771778c893517f6b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\5ff6ca1c71c65d13771778c893517f6b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\cdd996de6d7de744228c605dba99d749\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\cdd996de6d7de744228c605dba99d749\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\bdc36121369cd788e571c5ce63aba963\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\bdc36121369cd788e571c5ce63aba963\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\9cb40fabae1e2545144207adeb939d69\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Mary\.gradle\caches\transforms-3\9cb40fabae1e2545144207adeb939d69\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\3fea602842b0ed00fcc57f45de8470dd\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\3fea602842b0ed00fcc57f45de8470dd\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\27afddfcabba2f24e64162418f052d48\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\27afddfcabba2f24e64162418f052d48\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\41d5f30769771cb9fc7a47419b6faadf\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mary\.gradle\caches\transforms-3\41d5f30769771cb9fc7a47419b6faadf\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\d03634a5aa587478ee2f57fa078cad00\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\d03634a5aa587478ee2f57fa078cad00\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\fa97513adce96f342deba601e740bec6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\fa97513adce96f342deba601e740bec6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\652ead699efb112f4f326d7825f7436b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\652ead699efb112f4f326d7825f7436b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\26a58fb0084833b7ad78a48c9f58a4fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\26a58fb0084833b7ad78a48c9f58a4fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\e220f71063c06b6674ac98447d8bef8e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mary\.gradle\caches\transforms-3\e220f71063c06b6674ac98447d8bef8e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\9ffdc4dcce0e5791c35a01dbc6e9d376\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Mary\.gradle\caches\transforms-3\9ffdc4dcce0e5791c35a01dbc6e9d376\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\Mary\.gradle\caches\transforms-3\e413e8832da84854b14cfc29a41f3aa4\transformed\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] C:\Users\Mary\.gradle\caches\transforms-3\e413e8832da84854b14cfc29a41f3aa4\transformed\jetified-dagger-lint-aar-2.38.1\AndroidManifest.xml:18:3-42
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\024fb895b7b70c766a3ff7bf65ff7227\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\024fb895b7b70c766a3ff7bf65ff7227\transformed\jetified-drawee-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\5e998235514e9308493205da98e7c5ed\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\5e998235514e9308493205da98e7c5ed\transformed\jetified-nativeimagefilters-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\91614f41fc2192252b89875d21623508\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\91614f41fc2192252b89875d21623508\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\5ca890cee232b50fa27b79b99ca2ffd2\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\5ca890cee232b50fa27b79b99ca2ffd2\transformed\jetified-memory-type-java-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\83b31ce5d046c36e6ab8dc7999f79859\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\83b31ce5d046c36e6ab8dc7999f79859\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\2f09e57289f07bdd9d1357a83ba0e37b\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\2f09e57289f07bdd9d1357a83ba0e37b\transformed\jetified-memory-type-ashmem-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\3a1cfab4ecd5dacf5b4ea1dd43a35733\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\3a1cfab4ecd5dacf5b4ea1dd43a35733\transformed\jetified-imagepipeline-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\3570107b4012fec67670864f5740f53d\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\3570107b4012fec67670864f5740f53d\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\cbfb5914c02facdd450833ae4774db45\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\cbfb5914c02facdd450833ae4774db45\transformed\jetified-imagepipeline-base-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\6b1990b16af3ba630d2fbe17ebe3d286\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\6b1990b16af3ba630d2fbe17ebe3d286\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mary\.gradle\caches\transforms-3\0e4107913a69e94ad1364de62d3400c5\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\Mary\.gradle\caches\transforms-3\0e4107913a69e94ad1364de62d3400c5\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\d4aa115a69041f3d86c7ab1eaa9ac909\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\d4aa115a69041f3d86c7ab1eaa9ac909\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\2ce5fcebedfdc40210cae76ba03acf65\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\2ce5fcebedfdc40210cae76ba03acf65\transformed\jetified-ui-common-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\bfaca8251ecddca52c2fb0a29f32f878\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] C:\Users\Mary\.gradle\caches\transforms-3\bfaca8251ecddca52c2fb0a29f32f878\transformed\jetified-fbcore-2.6.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mary\Desktop\Woocer_test\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Mary\.gradle\caches\transforms-3\7ef358bdb50c144a61f5dbaa98439a9b\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\a5212c9c8fcf177b5c57400ac309fae6\transformed\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\Mary\.gradle\caches\transforms-3\0af5cd649a66fd445672a9a08895a4da\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Mary\.gradle\caches\transforms-3\5414fcf86f3fd2007ee5b132db0933f3\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

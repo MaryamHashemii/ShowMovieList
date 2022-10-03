@@ -1,0 +1,210 @@
+com/boomino/test/presentation/video_detail/FragmentVideoDetail_MembersInjector.java
+ com.boomino.test.presentation.video_detail.FragmentVideoDetail_MembersInjector
+hilt_aggregated_deps/_com_boomino_test_App_GeneratedInjector.java
+ hilt_aggregated_deps._com_boomino_test_App_GeneratedInjector
+com/boomino/test/domain/usecase/CategoryUseCase_Factory.java
+ com.boomino.test.domain.usecase.CategoryUseCase_Factory
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/boomino/test/presentation/video/CategoryAdapter_Factory.java
+ com.boomino.test.presentation.video.CategoryAdapter_Factory
+com/boomino/test/di/coroutine/CoroutinesModule_ProvidesMainDispatcherFactory.java
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesMainDispatcherFactory
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesMainDispatcherFactory$InstanceHolder
+com/boomino/test/databinding/ItemCategoryBinding.java
+ com.boomino.test.databinding.ItemCategoryBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/boomino/test/databinding/ItemCategoryBindingImpl.java
+ com.boomino.test.databinding.ItemCategoryBindingImpl
+com/boomino/test/di/NetworkModule_ProvideApiServiceFactory.java
+ com.boomino.test.di.NetworkModule_ProvideApiServiceFactory
+hilt_aggregated_deps/_com_boomino_test_di_coroutine_CoroutinesModule.java
+ hilt_aggregated_deps._com_boomino_test_di_coroutine_CoroutinesModule
+com/boomino/test/di/RepositoryModule_ProvideAppRepositoryFactory.java
+ com.boomino.test.di.RepositoryModule_ProvideAppRepositoryFactory
+hilt_aggregated_deps/_com_boomino_test_di_ImageLoadingInjector.java
+ hilt_aggregated_deps._com_boomino_test_di_ImageLoadingInjector
+com/boomino/test/di/coroutine/CoroutinesModule_ProvidesIoDispatcherFactory.java
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesIoDispatcherFactory
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesIoDispatcherFactory$InstanceHolder
+hilt_aggregated_deps/_com_boomino_test_presentation_video_VideoViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_boomino_test_presentation_video_VideoViewModel_HiltModules_KeyModule
+com/boomino/test/presentation/splash/Hilt_MainActivity.java
+ com.boomino.test.presentation.splash.Hilt_MainActivity
+ com.boomino.test.presentation.splash.Hilt_MainActivity$1
+com/boomino/test/databinding/ItemVideoBinding.java
+ com.boomino.test.databinding.ItemVideoBinding
+dagger/hilt/internal/aggregatedroot/codegen/_com_boomino_test_App.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_boomino_test_App
+com/boomino/test/BuildConfig.java
+ com.boomino.test.BuildConfig
+hilt_aggregated_deps/_com_boomino_test_di_RepositoryModule.java
+ hilt_aggregated_deps._com_boomino_test_di_RepositoryModule
+com/boomino/test/di/NetworkModule_ProvideRetrofitFactory.java
+ com.boomino.test.di.NetworkModule_ProvideRetrofitFactory
+com/boomino/test/databinding/FragmentVideoBinding.java
+ com.boomino.test.databinding.FragmentVideoBinding
+com/boomino/test/DaggerApp_HiltComponents_SingletonC.java
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$1
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ActivityCBuilder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ActivityCImpl
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$Builder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$FragmentCBuilder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$FragmentCImpl
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ServiceCImpl
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$SwitchingProvider
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ViewCBuilder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ViewCImpl
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ViewModelCBuilder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ViewModelCImpl
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ViewWithFragmentCBuilder
+ com.boomino.test.DaggerApp_HiltComponents_SingletonC$ViewWithFragmentCImpl
+com/boomino/test/presentation/video/VideoViewModel_Factory.java
+ com.boomino.test.presentation.video.VideoViewModel_Factory
+com/boomino/test/presentation/video_detail/Hilt_FragmentVideoDetail.java
+ com.boomino.test.presentation.video_detail.Hilt_FragmentVideoDetail
+com/boomino/test/Hilt_App.java
+ com.boomino.test.Hilt_App
+ com.boomino.test.Hilt_App$1
+com/boomino/test/BR.java
+ com.boomino.test.BR
+com/boomino/test/databinding/FragmentSplashBindingImpl.java
+ com.boomino.test.databinding.FragmentSplashBindingImpl
+com/boomino/test/data/local/dao/AppDb_Impl.java
+ com.boomino.test.data.local.dao.AppDb_Impl
+ com.boomino.test.data.local.dao.AppDb_Impl$1
+com/boomino/test/databinding/ItemLoadingBinding.java
+ com.boomino.test.databinding.ItemLoadingBinding
+com/boomino/test/databinding/ActivityMainBindingImpl.java
+ com.boomino.test.databinding.ActivityMainBindingImpl
+hilt_aggregated_deps/_com_boomino_test_presentation_video_VideoFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_boomino_test_presentation_video_VideoFragment_GeneratedInjector
+dagger/hilt/internal/processedrootsentinel/codegen/_com_boomino_test_App.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_boomino_test_App
+com/boomino/test/databinding/ActivityMainBinding.java
+ com.boomino.test.databinding.ActivityMainBinding
+com/boomino/test/domain/usecase/GetFilterVideosUseCase_Factory.java
+ com.boomino.test.domain.usecase.GetFilterVideosUseCase_Factory
+com/boomino/test/di/DatabaseModule_ProvideAppDAOFactory.java
+ com.boomino.test.di.DatabaseModule_ProvideAppDAOFactory
+com/boomino/test/di/coroutine/CoroutinesModule_ProvidesMainImmediateDispatcherFactory.java
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesMainImmediateDispatcherFactory
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesMainImmediateDispatcherFactory$InstanceHolder
+hilt_aggregated_deps/_com_boomino_test_presentation_splash_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_boomino_test_presentation_splash_MainActivity_GeneratedInjector
+com/boomino/test/App_ComponentTreeDeps.java
+ com.boomino.test.App_ComponentTreeDeps
+com/boomino/test/DataBindingTriggerClass.java
+ com.boomino.test.DataBindingTriggerClass
+com/boomino/test/data/local/dao/AppDao_Impl.java
+ com.boomino.test.data.local.dao.AppDao_Impl
+ com.boomino.test.data.local.dao.AppDao_Impl$1
+ com.boomino.test.data.local.dao.AppDao_Impl$2
+ com.boomino.test.data.local.dao.AppDao_Impl$3
+ com.boomino.test.data.local.dao.AppDao_Impl$4
+ com.boomino.test.data.local.dao.AppDao_Impl$5
+ com.boomino.test.data.local.dao.AppDao_Impl$6
+ com.boomino.test.data.local.dao.AppDao_Impl$7
+com/boomino/test/presentation/video/VideoFragment_MembersInjector.java
+ com.boomino.test.presentation.video.VideoFragment_MembersInjector
+com/boomino/test/DataBinderMapperImpl.java
+ com.boomino.test.DataBinderMapperImpl
+ com.boomino.test.DataBinderMapperImpl$InnerBrLookup
+ com.boomino.test.DataBinderMapperImpl$InnerLayoutIdLookup
+com/boomino/test/databinding/FragmentVideoDetailBindingImpl.java
+ com.boomino.test.databinding.FragmentVideoDetailBindingImpl
+com/boomino/test/App_HiltComponents.java
+ com.boomino.test.App_HiltComponents
+ com.boomino.test.App_HiltComponents$ActivityC
+ com.boomino.test.App_HiltComponents$ActivityC$Builder
+ com.boomino.test.App_HiltComponents$ActivityCBuilderModule
+ com.boomino.test.App_HiltComponents$ActivityRetainedC
+ com.boomino.test.App_HiltComponents$ActivityRetainedC$Builder
+ com.boomino.test.App_HiltComponents$ActivityRetainedCBuilderModule
+ com.boomino.test.App_HiltComponents$FragmentC
+ com.boomino.test.App_HiltComponents$FragmentC$Builder
+ com.boomino.test.App_HiltComponents$FragmentCBuilderModule
+ com.boomino.test.App_HiltComponents$ServiceC
+ com.boomino.test.App_HiltComponents$ServiceC$Builder
+ com.boomino.test.App_HiltComponents$ServiceCBuilderModule
+ com.boomino.test.App_HiltComponents$SingletonC
+ com.boomino.test.App_HiltComponents$ViewC
+ com.boomino.test.App_HiltComponents$ViewC$Builder
+ com.boomino.test.App_HiltComponents$ViewCBuilderModule
+ com.boomino.test.App_HiltComponents$ViewModelC
+ com.boomino.test.App_HiltComponents$ViewModelC$Builder
+ com.boomino.test.App_HiltComponents$ViewModelCBuilderModule
+ com.boomino.test.App_HiltComponents$ViewWithFragmentC
+ com.boomino.test.App_HiltComponents$ViewWithFragmentC$Builder
+ com.boomino.test.App_HiltComponents$ViewWithFragmentCBuilderModule
+com/boomino/test/databinding/FragmentVideoDetailBinding.java
+ com.boomino.test.databinding.FragmentVideoDetailBinding
+com/boomino/test/databinding/ItemVideoBindingImpl.java
+ com.boomino.test.databinding.ItemVideoBindingImpl
+com/boomino/test/presentation/video/VideoViewModel_HiltModules.java
+ com.boomino.test.presentation.video.VideoViewModel_HiltModules
+ com.boomino.test.presentation.video.VideoViewModel_HiltModules$BindsModule
+ com.boomino.test.presentation.video.VideoViewModel_HiltModules$KeyModule
+com/boomino/test/presentation/splash/Hilt_SplashFragment.java
+ com.boomino.test.presentation.splash.Hilt_SplashFragment
+com/boomino/test/presentation/video_detail/FragmentVideoDetail_GeneratedInjector.java
+ com.boomino.test.presentation.video_detail.FragmentVideoDetail_GeneratedInjector
+com/boomino/test/data/AppRepositoryImp_Factory.java
+ com.boomino.test.data.AppRepositoryImp_Factory
+com/boomino/test/di/coroutine/CoroutinesModule_ProvidesDefaultDispatcherFactory.java
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesDefaultDispatcherFactory
+ com.boomino.test.di.coroutine.CoroutinesModule_ProvidesDefaultDispatcherFactory$InstanceHolder
+com/boomino/test/databinding/FragmentSplashBinding.java
+ com.boomino.test.databinding.FragmentSplashBinding
+hilt_aggregated_deps/_com_boomino_test_presentation_video_VideoViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_boomino_test_presentation_video_VideoViewModel_HiltModules_BindsModule
+com/boomino/test/di/NetworkModule_ProvideLoggingInterceptorFactory.java
+ com.boomino.test.di.NetworkModule_ProvideLoggingInterceptorFactory
+ com.boomino.test.di.NetworkModule_ProvideLoggingInterceptorFactory$InstanceHolder
+com/boomino/test/di/NetworkModule_ProvideHttpClientFactory.java
+ com.boomino.test.di.NetworkModule_ProvideHttpClientFactory
+hilt_aggregated_deps/_com_boomino_test_di_DatabaseModule.java
+ hilt_aggregated_deps._com_boomino_test_di_DatabaseModule
+com/boomino/test/presentation/video/Hilt_VideoFragment.java
+ com.boomino.test.presentation.video.Hilt_VideoFragment
+com/boomino/test/di/DatabaseModule_ProvideAppDatabaseFactory.java
+ com.boomino.test.di.DatabaseModule_ProvideAppDatabaseFactory
+com/boomino/test/databinding/ItemLoadingBindingImpl.java
+ com.boomino.test.databinding.ItemLoadingBindingImpl
+com/boomino/test/common/imageloading/FrescoImageLoadingService_Factory.java
+ com.boomino.test.common.imageloading.FrescoImageLoadingService_Factory
+ com.boomino.test.common.imageloading.FrescoImageLoadingService_Factory$InstanceHolder
+com/boomino/test/presentation/video/VideoViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.boomino.test.presentation.video.VideoViewModel_HiltModules_KeyModule_ProvideFactory
+ com.boomino.test.presentation.video.VideoViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/boomino/test/presentation/splash/SplashFragment_GeneratedInjector.java
+ com.boomino.test.presentation.splash.SplashFragment_GeneratedInjector
+com/boomino/test/databinding/FragmentVideoBindingImpl.java
+ com.boomino.test.databinding.FragmentVideoBindingImpl
+hilt_aggregated_deps/_com_boomino_test_presentation_splash_SplashFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_boomino_test_presentation_splash_SplashFragment_GeneratedInjector
+com/boomino/test/util/NetworkConnectivity_Factory.java
+ com.boomino.test.util.NetworkConnectivity_Factory
+com/boomino/test/domain/usecase/GetAllVideosUseCase_Factory.java
+ com.boomino.test.domain.usecase.GetAllVideosUseCase_Factory
+com/boomino/test/presentation/video/VideoFragment_GeneratedInjector.java
+ com.boomino.test.presentation.video.VideoFragment_GeneratedInjector
+com/boomino/test/presentation/video/VideoAdapter_Factory.java
+ com.boomino.test.presentation.video.VideoAdapter_Factory
+hilt_aggregated_deps/_com_boomino_test_di_NetworkModule.java
+ hilt_aggregated_deps._com_boomino_test_di_NetworkModule
+hilt_aggregated_deps/_com_boomino_test_presentation_video_detail_FragmentVideoDetail_GeneratedInjector.java
+ hilt_aggregated_deps._com_boomino_test_presentation_video_detail_FragmentVideoDetail_GeneratedInjector
+com/boomino/test/App_GeneratedInjector.java
+ com.boomino.test.App_GeneratedInjector
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/boomino/test/presentation/splash/MainActivity_GeneratedInjector.java
+ com.boomino.test.presentation.splash.MainActivity_GeneratedInjector
